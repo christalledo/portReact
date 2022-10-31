@@ -1,0 +1,14 @@
+nav {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: flex-end !important;
+
+}
+
+.d-flex {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
