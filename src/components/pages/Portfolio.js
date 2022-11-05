@@ -2,9 +2,9 @@ import React from 'react';
 import video1 from '../../images/The Catered Gamer - Google Chrome 2022-11-02 13-47-51.mp4';
 import video2 from '../../images/FullChat - Google Chrome 2022-11-05 07-48-39.mp4';
 import video3 from '../../images/To Do List App - Google Chrome 2022-11-05 07-56-32.mp4';
-import image1 from '../../Note Taker - Google Chrome 11_5_2022 8_08_26 AM.png';
-import image2 from '../../Screenshot 2022-11-05 080737.jpg'
-import image3 from '../../images/Fund My Project! - Google Chrome 11_5_2022 8_10_46 AM.png'
+import image1 from '../../images/Note-Manager.png'
+import image2 from '../../images/Team-Profile.jpg'
+import image3 from '../../images/Tech-Blog.png'
 
 export default function Portfolio() {
   function play(e) {
