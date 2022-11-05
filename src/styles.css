@@ -1,0 +1,44 @@
+nav {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: flex-end !important;
+
+}
+
+.d-flex {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+.video1 {
+    width: 500px;
+    height: 300px;
+}
+
+.portContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* 
+.changingColor {
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(13, 222, 187);
+    animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+    from {
+        background-color: rgb(13, 222, 187);
+    }
+
+    to {
+        background-color: blue;
+    }
+} */
