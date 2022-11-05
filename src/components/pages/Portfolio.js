@@ -18,11 +18,11 @@ export default function Portfolio() {
       <h1>Portfolio Page</h1>
       <div className='portContainer'>
         <video class='video1' src={video1} alt="Project 1" onClick={play} />
-        <video src={video2} alt="Project 2" onClick={play} />
-        <video src={video3} alt="Project 3" onClick={play} />
-        <img src={image1} alt="Note Manager" />
-        <img src={image2} alt="Team Profile" />
-        <img src={image3} alt="Freedom Tech" />  </div>
+        <video class='video2' src={video2} alt="Project 2" onClick={play} />
+        <video class='video3' src={video3} alt="Project 3" onClick={play} />
+        <img class='image1' src={image1} alt="Note Manager" />
+        <img class='image2' src={image2} alt="Team Profile" />
+        <img class='image3' src={image3} alt="Freedom Tech" />  </div>
     </div>
   );
 }
